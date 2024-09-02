@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_nav_home"
+        android:title="Home"
+        android:iconTintMode="src_in"
+        android:icon="@drawable/farmfresh_home_png"/>
+    <item
+        android:id="@+id/bottom_nav_cart"
+        android:title="Cart"
+        android:icon="@drawable/farmfresh_cart_png"/>
+    <item
+        android:id="@+id/bottom_nav_order"
+        android:title="Order"
+        android:icon="@drawable/farmfresh_order_png"/>
+    <item
+        android:id="@+id/bottom_nav_setting"
+        android:title="Setting"
+        android:icon="@drawable/farmfresh_setting_png"/>
+
+</menu>
